@@ -1,7 +1,7 @@
 {
   "name": "cloudflare-kv-swap",
   "description": "A command line tool for swapping Cloudflare KV namespaces with freshly created ones",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jonathan LEI <xJonathan@outlook.com>",
   "bin": {
     "cloudflare-kv-swap": "./bin/run"
